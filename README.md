@@ -1,4 +1,4 @@
 # Demo
 My First Git Repository.
 <br>
-Author - Akhil Kumar
+Author - Akhil Kumar Garikipati
